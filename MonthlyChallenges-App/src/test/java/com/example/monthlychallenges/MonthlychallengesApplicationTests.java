@@ -1,3 +1,4 @@
+package com.example.monthlychallenges;
 
 
 import org.junit.jupiter.api.Test;
